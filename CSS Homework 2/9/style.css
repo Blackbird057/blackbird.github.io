@@ -1,0 +1,8 @@
+div {
+    border: dashed 4px red;
+}
+
+p {
+    border-top:solid 2px black;
+    border-bottom: solid 2px black;
+}

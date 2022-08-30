@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    
+    
+
+}
+
+div {
+    margin-top: 200px;
+    margin-left: 40%;
+    width: 400px;
+    height: 200px;
+    border: solid;
+    -webkit-box-shadow: -37px -36px 15px 5px #FF0000, 37px 37px 15px 5px #1300FF; 
+    box-shadow: -37px -36px 15px 5px #FF0000, 37px 37px 15px 5px #1300FF;
+    
+}
