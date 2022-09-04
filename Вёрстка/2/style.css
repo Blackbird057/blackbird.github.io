@@ -1,0 +1,22 @@
+
+.right {
+    float: right;
+     width: 10%;
+     background-color: green;
+}
+
+.left {
+    margin-right: 10%;
+    background-color: red;
+}
+
+.leftFloat {
+    float: left;
+    width: 10%;
+    background-color: green;
+}
+
+.rightFloat {
+    background-color: red;
+    margin-left: 10%;
+}

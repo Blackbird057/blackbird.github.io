@@ -1,0 +1,15 @@
+#hide {
+    display: none;
+    background-color: red; 
+    text-align: right;
+}
+
+.show:hover #hide {
+    display: block;
+   width: 10%;
+    
+}
+
+li {
+    list-style-type: none;
+}

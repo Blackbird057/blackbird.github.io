@@ -1,0 +1,16 @@
+div {
+    width: 50px;
+    height: 15px;
+    border: solid black 2px;
+}
+
+.right {
+    float: right;
+       
+}
+
+.left {
+    float: left;
+}
+
+
